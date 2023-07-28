@@ -1,0 +1,41 @@
+token.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.dylib
+
+# Distribution / packaging
+dist/
+build/
+eggs/
+*.egg-info/
+*.egg
+*.egg-info
+
+# Virtual environments
+venv/
+env/
+env.bak/
+venv.bak/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.coverage
+.tox/
+nosetests.xml
+htmlcov/
+.pytest_cache/
+
+# Other
+*.pyc
+*.bak
+*.swp
+.DS_Store

@@ -1,0 +1,78 @@
+{
+    "title": {
+        "long_name": "title"
+    },
+    "authors": {
+        "long_name": "authors"
+    },
+    "year": {
+        "long_name": "year"
+    },
+    "journal": {
+        "long_name": "journal"
+    },
+    "link": {
+        "long_name": "link"
+    },
+    "first_author_gender": {
+        "long_name": "first_author's_gender_the_two_letters_refer_to_first_and_last_author",
+        "short_name": "first_author_gender",
+        "drop": true
+    },
+    "last_authors_gender": {
+        "long_name": "last_authors_gender",
+        "drop": true
+    },
+    "ref_genders_first_author_of_reference_help_is_welcome_here": {
+        "long_name": "ref_genders_first_author_of_reference_help_is_welcome_here",
+        "drop": true
+    },
+    "inv_gender": {
+        "long_name": "inv_gener",
+        "short_name": "inv_gender",
+        "drop": true
+    },
+    "first_author_affiliation": {
+        "long_name": "place_first_authors_first_affiliation",
+        "short_name": "first_author_affiliation"
+    },
+    "continent": {
+        "long_name": "continent"
+    },
+    "field_strength": {
+        "long_name": "field_strenght_mostly_focused_on",
+        "short_name": "field_strength"
+    },
+    "vendor": {
+        "long_name": "vendor_empty_if_simulation_study_or_review_article_without__original_data,__if_puliple_scanners,_the_main_one_is_used",
+        "short_name": "vendor"
+    },
+    "scanner_model": {
+        "long_name": "scanner_model"
+    },
+    "study_type_review,_application,_method": {
+        "long_name": "study_type_review,_application,_method",
+        "short_name": "study_type"
+    },
+    "brain_area_mostly_focused_on": {
+        "long_name": "brain_area_mostly_focused_on",
+        "short_name": "brain_area"
+    },
+    "ge-bold_used": {
+        "long_name": "ge-bold_used"
+    },
+    "clinical": {
+        "long_name": "clinical"
+    },
+    "one_sentence_summary": {
+        "long_name": "one_sentence_summary"
+    },
+    "comment": {
+        "long_name": "comment"
+    },
+    "data_availability": {
+        "long_name": "data_availability_3=available_online,_2_available_upon_request,_1,_no_sharing_or_no_statement,_0_not_applicable",
+        "short_name": "data_availability",
+        "levels":{"3": "available_online", "2": "available_upon_request", "1": "no_sharing_or_no_statement", "0": "not_applicable"}
+    }
+}
